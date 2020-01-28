@@ -1,5 +1,4 @@
-# Lojistik Regresyon Analizi
-
+# R ile Lojistik Regresyon Analizi 
 
 
 Uis.dat veri setinde;
